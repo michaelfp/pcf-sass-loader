@@ -14,7 +14,7 @@
     "sass",
     "loader"
   ],
-  "author": "",
+  "author": "Michael Pereira",
   "license": "MIT",
    "bundleDependencies": false,
   "devDependencies": {
@@ -32,5 +32,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/michaelfp/pcf-sass-loader.git"
-  }
+  },
+  "bugs": {
+      "url": "https://github.com/michaelfp/pcf-sass-loader/issues"
+    }
 }

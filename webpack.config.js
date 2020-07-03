@@ -39,7 +39,7 @@ module.exports = {
   },
   resolveLoader: {
     alias: {
-      "pcf-sass-loader": path.join(__dirname, "./src/index/js"),
+      "pcf-sass-loader": path.join(__dirname, "./src/index.js"),
     },
   },
  target:'node',
